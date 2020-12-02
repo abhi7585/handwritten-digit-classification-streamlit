@@ -1,0 +1,7 @@
+opencv_python==4.3.0.36
+numpy==1.18.5
+Keras==2.4.3
+streamlit==0.71.0
+matplotlib==3.2.2
+Pillow==8.0.1
+scikit_learn==0.23.2
