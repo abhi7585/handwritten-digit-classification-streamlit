@@ -85,6 +85,8 @@ def main():
                     elif classIndex == 9:
                         st.success("9")
                         # speak("Predicted Number is Nine")
+                else:
+                    st.success("Invalid input image or Image too large")
             except Exception as e:
                 st.error("Connection Error")
 
