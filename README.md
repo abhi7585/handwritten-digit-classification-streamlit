@@ -155,5 +155,5 @@ With this project I learnt a lot, especially about the working of CNN and also p
 Want to contribute? Great!
 Feel free to add any issues and pull request.
 
-
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
 
