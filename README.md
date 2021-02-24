@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition using OpenCV
-If you want to see the final result this is the link: https://share.streamlit.io/abhi7585/handwritten-digit-classification-streamlit/main/main.py
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhi7585/handwritten-digit-classification-streamlit/main/main.py)
 
 # 1. Introduction
 
